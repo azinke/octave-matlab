@@ -23,4 +23,4 @@ hold some basic example of code written in those language.
     trans_mat = [Z11, Z12; Z21, Z22]
 ```
 
-[dowload](./octave/example 1/matrix_transfert.m)
+[dowload](./octave/example1/matrix_transfert.m)
